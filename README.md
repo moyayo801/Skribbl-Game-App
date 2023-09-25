@@ -1,16 +1,10 @@
 # drawme
+UNFINISHED
 
-A new Flutter project.
+A new Flutter GAME.
 
-## Getting Started
+# SOME SCREENSHOTS :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![game2](https://github.com/moyayo801/Skribbl-Game-App/assets/95226762/287af263-4f23-4ebc-940b-0e3e3cfd7688)
+![game1](https://github.com/moyayo801/Skribbl-Game-App/assets/95226762/08857114-e75c-4603-b7e2-7a66971fb607)
+![game3](https://github.com/moyayo801/Skribbl-Game-App/assets/95226762/23ac1659-4936-4462-9371-828ddcda1e5d)
